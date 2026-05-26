@@ -59,11 +59,7 @@ This repository is used to:
 
 ## Statistics
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/PrzemekR4?theme=dark&font=Baloo&ext=contest)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrzemyslawRutyna&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrzemyslawRutyna&layout=compact&theme=github_dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Pszymek?theme=dark&font=Baloo&ext=contest)
 
 ---
 
